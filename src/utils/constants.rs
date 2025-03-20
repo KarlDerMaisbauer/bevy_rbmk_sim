@@ -1,0 +1,12 @@
+pub const TERMINAL_SPEED: f32 = 200f32;
+pub const SIZE: f32 = 5f32;
+pub const EPSILON: f32 = 1f32;
+pub const REACTOR_SIZE_Y: isize = 21;
+pub const REACTOR_SIZE_X: isize = 40;
+pub const WATER_SIZE: isize = 36;
+pub const WATER_SPACE: isize = 40;
+pub const ATOM_SIZE: isize = 12; //Radius
+pub const PERCENT_URANIUM: u32 = 10;
+pub const PROBABILITY_XENON: u32 = 7;
+pub const WATER_Z_VALUE: f32 = -2f32;
+pub const ATOM_Z_VALUE: f32 = -1f32;
